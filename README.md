@@ -1,13 +1,11 @@
 Зайди в папку, открой консоль и запусти следующие команды по очереди: 
-```
-venv\Scripts\activate.bat
-```
-```
-python 9.py
-```
 
 ```
 python -m venv venv
+```
+
+```
+venv\Scripts\activate.bat
 ```
 
 ```
@@ -20,4 +18,8 @@ pip install keras
 
 ```
 pip install tensorflow
+```
+
+```
+python 9.py
 ```
